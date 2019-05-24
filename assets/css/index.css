@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: indianred;
+}
+
+.parallax-container {
+    height: 450px;
+  }
+
+  .bagIsi h6{
+      background-color: firebrick;
+      height: 30px;
+      padding-top: 5px;
+      text-align: center;
+      color: aliceblue;
+  }
+
+.infoAk{
+    background-color: bisque;
+    height: 610px;
+    font-size: 12px;
+}
+
+.infoAk a:link{
+    color: black;
+}
+
+.infoAk a:hover{
+    color:chocolate;
+}
+
+.konten1{
+    background-color: bisque;
+    height: 610px;
+    font-size: 12px;
+}
+
+.login{
+    background-color: bisque;
+    height: 200px;
+    font-size: 12px;
+}
