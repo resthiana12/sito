@@ -19,6 +19,10 @@ nav{
       color: aliceblue;
   }
 
+  .prestasi h6{
+      text-align: center;
+  }
+
 .infoAk{
     background-color: bisque;
     height: 610px;
@@ -34,13 +38,66 @@ nav{
 }
 
 .konten1{
-    background-color: bisque;
-    height: 610px;
     font-size: 12px;
 }
 
 .login{
     background-color: bisque;
-    height: 200px;
+    height: 310px;
     font-size: 12px;
+}
+
+.konten1 .slider{
+    margin-top: -6px;
+}
+
+.btn1{
+    background-color: crimson;
+}
+
+.btn1:hover{
+    background-color: brown;
+}
+
+.log{
+    border : 1px solid brown;
+    padding : 10px;
+    margin-top: -8px;
+}
+
+/* .parallax{
+    opacity: 2;
+    filter: brightness(55%);
+} */
+
+.rekap h6{
+    background-color: firebrick;
+    height: 30px;
+    padding-top: 5px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.rekap{
+    height: 380px;
+    background-color: bisque;
+}
+
+.collapsible-header{
+    background-color: firebrick;
+    color: aliceblue;
+}
+
+.prestasi{
+    background-color: antiquewhite;
+}
+
+.prestasi img{
+    width: 80%;
+}
+
+.foto{
+    padding: 5px 3px;
+    width: 100px;
+
 }
