@@ -99,5 +99,16 @@ nav{
 .foto{
     padding: 5px 3px;
     width: 100px;
+}
 
+.page-footer{
+    background-color: firebrick;
+    padding-left: 50px;
+    padding-bottom: 10px;
+    padding-right:20px;
+    padding-top: 10px;
+}
+
+.baris2{
+    padding-bottom: 100px;
 }

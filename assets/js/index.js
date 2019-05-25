@@ -4,4 +4,5 @@ $(document).ready(function(){
       height: 550
     });
     $('.collapsible').collapsible();
+    $('.scrollspy').scrollSpy();
   });
